@@ -1,0 +1,10 @@
+[Core]
+module = barracudaesg
+name = barracudaESG
+
+[Documentation]
+description = API plugin for Barracuda Email Security Gateway
+
+[Python]
+version = 3
+
